@@ -7,6 +7,6 @@ I build **high-performance AI systems for resource-constrained environments** (E
 * **Weather AI:** Competing against $1M+ Radar systems using consumer CPUs & XGBoost.
 
 **Tech Stack**
-* **Core:** Python, SQL (SQLite/Postgres), NumPy, OpenCV, C
+* **Core:** Python, SQL (SQLite/Postgres), NumPy, C
 * **Data Ops:** Docker, CI/CD (GitHub Actions), Medallion Architecture
 * **ML:** XGBoost, RFSI, OpenCV, Scikit-Learn
