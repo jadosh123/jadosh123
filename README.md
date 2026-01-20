@@ -4,7 +4,7 @@ I build **high-performance AI systems for resource-constrained environments** (E
 
 **Key Achievements**
 * **Pandas Library Contributor:** Fixed critical bug in `DataFrame.apply()` ([Merged PR #63126](https://github.com/pandas-dev/pandas/pull/63126)).
-* **Weather AI:** Outperforming $1M+ Radar systems using consumer CPUs & XGBoost.
+* **Weather AI:** Competing against $1M+ Radar systems using consumer CPUs & XGBoost.
 
 **Tech Stack**
 * **Core:** Python, SQL (SQLite/Postgres), NumPy, OpenCV, C
