@@ -1,5 +1,5 @@
 # Hi, I'm Jad
-### Systems Architect & Data Engineer
+### Data Engineer & Data Scientist
 I build **high-performance AI systems for resource-constrained environments** (Edge/IoT/Developing Nations).
 
 **Key Achievements**
