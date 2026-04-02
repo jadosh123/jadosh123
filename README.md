@@ -19,4 +19,4 @@ Merged regression test for a bug in `DataFrame.apply()` — PR #63126.
 
 ## Stack
 
-`Python` `Pandas` `SQL` `XGBoost` `Scikit-Learn` `FastAPI` `Streamlit` `Docker` `SQLAlchemy` `NumPy` `GitHub Actions` ``
+`Python` `Pandas` `SQL` `XGBoost` `Scikit-Learn` `FastAPI` `Streamlit` `Docker` `SQLAlchemy` `NumPy` `GitHub Actions`
