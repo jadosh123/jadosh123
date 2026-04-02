@@ -1,13 +1,22 @@
-# Hi, I'm Jad
-### Data Engineer & Data Scientist
-I build **high-performance AI systems for resource-constrained environments** (Edge/IoT/Developing Nations).
+# Jad Jaraisy
+### Software Engineer — Data & ML Systems
 
-**Key Achievements**
-* **Pandas Library Contributor:** Built a regression test for a critical bug in `DataFrame.apply()` ([Merged PR #63126](https://github.com/pandas-dev/pandas/pull/63126)).
-* **Weather AI:** Competing against $1M+ Radar systems using consumer CPUs & XGBoost.
-* **Jigsaw Data Generator:** Jigsaw engine that can take any image and generate infinite unique datasets + spritesheets.
+I build data pipelines and ML systems end-to-end — from raw ingestion to production inference.
 
-**Tech Stack**
-* **Core:** Python, SQL (SQLite/Postgres), NumPy, C
-* **Data Ops:** Docker, CI/CD (GitHub Actions), Medallion Architecture
-* **ML:** XGBoost, RFSI, OpenCV, Scikit-Learn
+---
+
+## Projects
+
+**[SparseData Precipitation Forecasting](https://github.com/jadosh123/SparseData-AI-Precipitation-Forecasting)**  
+Medallion ETL pipeline ingesting 88 IMS weather stations, virtual sensor generation via 
+spatial interpolation, XGBoost forecasting across a grid of cells in the Jezreel Valley.  
+*In active development — live demo coming soon.*
+
+**[Pandas Contributor](https://github.com/pandas-dev/pandas/pull/63126)**  
+Merged regression test for a bug in `DataFrame.apply()` — PR #63126.
+
+---
+
+## Stack
+
+`Python` `Pandas` `SQL` `XGBoost` `Scikit-Learn` `FastAPI` `Streamlit` `Docker` `SQLAlchemy` `NumPy` `GitHub Actions` ``
