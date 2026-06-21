@@ -8,9 +8,9 @@ I build data pipelines and ML systems end-to-end — from raw ingestion to produ
 ## Projects
 
 **[SparseData Precipitation Forecasting](https://github.com/jadosh123/SparseData-AI-Precipitation-Forecasting)**  
-Medallion ETL pipeline ingesting 88 IMS weather stations, virtual sensor generation via 
-spatial interpolation, XGBoost forecasting across a grid of cells in the Jezreel Valley.  
-*In active development — live demo coming soon.*
+Medallion ETL pipeline ingesting 88 IMS weather stations, 1271 virtual sensor generation via a XGBoost model trained with
+[Random Forest Spatial Interpolation](https://www.mdpi.com/2072-4292/12/10/1687) methodology, XGBoost forecasting across a grid of cells in the Jezreel Valley.  
+[EklimAI](https://www.eklimai.com/)
 
 **[Pandas Contributor](https://github.com/pandas-dev/pandas/pull/63126)**  
 Merged regression test for a bug in `DataFrame.apply()` — PR #63126.
